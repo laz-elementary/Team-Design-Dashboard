@@ -1,0 +1,6 @@
+{
+  "name": "Team Design Monitoring",
+  "description": "Web dashboard internal sekolah untuk Kepala Sekolah dan Guru memantau pekerjaan Team Design: anggota tim, daftar program kerja, PIC, deadline, status, task/milestone, progress otomatis, kendala, next action, evidence link, dan reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
